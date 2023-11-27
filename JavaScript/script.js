@@ -1,5 +1,4 @@
 function surprise () {
-    let Kvitsi = 'Щовесни ріки охоче течуть навздогін морям в знамення відходу набридливих холодів. Цікаво, чи буде наступна весна звичною нам у цьому?';
 
     let workspace = document.querySelector('.workspace')
     let navigation = document.querySelector('.main__navigation');
